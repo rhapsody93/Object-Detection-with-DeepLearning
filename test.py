@@ -7,7 +7,7 @@ from ultralytics import YOLO
 dataset = [
     {
         "name": "custom_dataset",
-        "model_path": "C:/Users/USER/anaconda3/envs/obj_det/object_detection/runs/detect/exp_custom_dataset84/weights/best.pt",
+        "model_path": "~/runs/detect/exp_custom_dataset84/weights/best.pt",
         "data_yaml": "custom_dataset.yaml"
     }
 ]

@@ -1,0 +1,7 @@
+# path: C:/Users/USER/anaconda3/envs/obj_det/object_detection/custom_dataset
+train: C:/Users/USER/anaconda3/envs/obj_det/object_detection/custom_dataset/train
+val: C:/Users/USER/anaconda3/envs/obj_det/object_detection/custom_dataset/valid
+test: C:/Users/USER/anaconda3/envs/obj_det/object_detection/custom_dataset/test
+
+nc: 6
+names: [vehicle, person, truck, bus, motorcycle, bicycle]
